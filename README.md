@@ -4,7 +4,7 @@ GARCH model and statistical analysis on real financial data.
 
 ## Introduction
 
-The aim of this project is to modelize the return of a stock/index using a GARCH model.
+The aim of this project is to model the return of a stock/index using a GARCH model.
 
 All the functions have been applied to the CAC40 index and are contained in the file main.py
 
